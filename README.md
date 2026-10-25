@@ -11,6 +11,6 @@ This is a rough outline of the cost, see [`BOM.csv`](BOM.csv) for more details.
 | Part | Cost |
 | --- | --- |
 | [Unpopulated PCB](https://jlcpcb.com/) | $62.10 |
-| [Pi Pico](https://www.rapidonline.com/raspberry-pi-sc0915-pico-rp2040-microcontroller-board-75-1132) | $4.83 |
+| [Pi Pico](https://thepihut.com/products/raspberry-pi-pico?variant=41925332533443) | $5.08 |
 | [Multiplexers](https://www.lcsc.com/product-detail/C6525.html) | $15.11 |
 | **Total + Shipping** | **$99.56** |
